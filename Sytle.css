@@ -1,0 +1,40 @@
+body{
+    /* background: url(Image/My\ picture.jpg) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover; */
+
+  background-color: black;
+}
+
+h1{
+    color:white;
+    font-style: italic;
+    text-align: center;
+
+}
+h2{
+    color:white;
+}
+h3{
+    color: white;
+}
+h4{
+    color:white;
+}
+p1{text-align: left;}
+p{
+    color: white;
+}
+p1{
+    color:white;
+}
+p2{
+    color:white;
+}
+table{
+    color:white;
+}
+
+
